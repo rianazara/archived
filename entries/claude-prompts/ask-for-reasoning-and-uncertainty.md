@@ -20,3 +20,8 @@ Caveat the post doesn't mention: self-reported confidence is itself a
 generated claim, not a measurement. It surfaces where a model *expects* to be
 shaky, which correlates with but doesn't equal actual error. For anything
 consequential, verify against a source rather than trusting the hedge.
+
+A second saved post made the same point with more detail — that the right
+instructions get the model to slow down, separate facts from assumptions,
+and stop presenting guesses as facts. Same technique, so kept here rather
+than duplicated: https://www.instagram.com/p/DZTQUW4nYOz/

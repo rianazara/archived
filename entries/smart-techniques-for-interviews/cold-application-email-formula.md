@@ -29,5 +29,5 @@ company career pages filtered to the last 24 hours, get the hiring manager's
 name from the team page, and infer the email pattern.
 
 Note the post named specific paid tools for those steps, which is also how
-the creator monetizes — the formula stands on its own without them. Your
-[[daily-pm-job-pipeline]] setup already covers the fresh-posting part.
+the creator monetizes — the formula stands on its own without them. Your own
+daily PM job pipeline already covers the fresh-posting part.
