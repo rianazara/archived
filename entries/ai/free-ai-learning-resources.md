@@ -30,5 +30,20 @@ agents, build them while studying. Which is the same instruction as
 [[seven-layers-of-ai-engineering]] — let a project tell you what to learn
 next.
 
+Further up the difficulty curve, a separate post flagged **Stanford CS329A**
+("self-improving AI agents") as fully recorded and public — nine or so
+graduate lectures moving from scaling laws and reasoning through to agents
+that generate their own training data, verify their own reasoning, and set
+themselves problems. Taught by researchers who've worked on frontier model
+training. Discount the "the skill Anthropic pays $700K for" framing and the
+free-newsletter funnel attached to it; the lectures are real.
+
+On **certifications**, another post listed Anthropic's Claude-focused
+architect credential, Google AI Essentials, a Microsoft/LinkedIn generative
+AI track, an AWS/DeepLearning.AI course on LLMs, and the AWS machine
+learning specialty. It also made the honest point: a certificate alone
+guarantees nothing, and only counts combined with projects you can show.
+Check current availability before planning around any exam.
+
 _(Reference list, so expect link rot; verify before relying on any one of
 these.)_
