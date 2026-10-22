@@ -32,5 +32,12 @@ other saved posts are snapshots of a particular quarter's trade.
 Start with Yale if the goal is understanding markets, Wharton if the goal is
 valuing a company.
 
+For interview preparation specifically rather than understanding, a
+separate saved post pointed at the Wall Street Prep "Red Book" as a
+structured run through accounting, DCF, LBOs, M&A, financial modelling and
+valuation — aimed at investment banking, private equity and equity research
+interviews. Different purpose from the courses above: drilling a known
+question set rather than building intuition.
+
 _Reference list, so verify availability — these move and get re-recorded.
 Also note that a course on ML for trading teaches technique, not an edge._
