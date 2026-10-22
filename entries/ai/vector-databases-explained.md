@@ -25,3 +25,13 @@ Worth adding: this is also the honest answer to "do I need one?" If your
 retrieval is genuinely keyword- or filter-shaped, a normal index is simpler
 and better. Hybrid retrieval exists because both kinds of question show up
 in real traffic.
+
+A second saved post adds the surrounding machinery worth understanding
+before picking a product: how similarity search actually works, why the
+index type matters for speed-versus-accuracy, and **metadata filtering** —
+constraining by attributes before or alongside the vector search, which is
+what makes access control and freshness filters possible (see
+[[stale-context-versioned-rag]]). Commonly named options include Pinecone,
+Weaviate, Milvus, Qdrant, Chroma and pgvector; the last is just Postgres
+with an extension, which is often the right starting point when you already
+run one.
