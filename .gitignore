@@ -1,3 +1,14 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Local tooling for ingestion — never committed.
+.venv/
+
+# Raw captures: forwarded mail, exports, downloads. Personal by nature, and
+# this repo gets pushed, so only finished entries/ go up.
+inbox/
+
+# Editor/REPL leftovers.
+.obsidian/
+.Rhistory
