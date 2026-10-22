@@ -1,6 +1,6 @@
 ---
 title: Preparing for forward-deployed PM interviews
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [product-management, ai, case-interview]
 created: 2026-10-22
 updated: 2026-10-22

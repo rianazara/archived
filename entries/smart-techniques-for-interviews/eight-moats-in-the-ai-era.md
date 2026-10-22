@@ -1,6 +1,6 @@
 ---
 title: Eight moats for software when building gets cheap
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [strategy, moats, startups, product-management]
 created: 2026-10-22
 updated: 2026-10-22

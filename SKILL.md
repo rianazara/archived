@@ -93,6 +93,15 @@ queued by `capture.py <url-or-file>`, by dropping files in `inbox/drop/`
    dedupe against `INDEX.md`, pick a topic, write the file with `source` set
    to the stub's source. Then set the stub to `done` and move any local
    original into `inbox/processed/`.
+
+   **Topic names mirror the user's own categories — don't invent tidier
+   ones.** For anything out of an Instagram export, the topic is the saved
+   collection's name, slugified and otherwise untouched
+   (`Smart techniques for interviews` → `smart-techniques-for-interviews`).
+   Two standing exceptions the user asked for: `Workput` files as `workout`,
+   and the two collections both named `Skincare` merge into one `skincare`.
+   For items in no collection, reuse an existing collection name wherever one
+   fits; only propose a new topic when none does, and ask before using it.
 4. Items at `needs_dictation` could not be read automatically (no captions,
    a scanned PDF, an Instagram reel whose substance is spoken). Don't guess
    at their content — show the user the source and the stub's note and ask

@@ -1,6 +1,6 @@
 ---
 title: At senior levels, consult rather than audition
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [seniority, negotiation, positioning]
 created: 2026-10-22
 updated: 2026-10-22

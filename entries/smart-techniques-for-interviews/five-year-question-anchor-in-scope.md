@@ -1,6 +1,6 @@
 ---
 title: Answer "where do you see yourself" in scope, not titles
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [behavioral-questions, leadership, seniority]
 created: 2026-10-22
 updated: 2026-10-22

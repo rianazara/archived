@@ -1,6 +1,6 @@
 ---
 title: Cold application email — their problem, your fix, the number
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [job-search, outreach, cold-email]
 created: 2026-10-22
 updated: 2026-10-22

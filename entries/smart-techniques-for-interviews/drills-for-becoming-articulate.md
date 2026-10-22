@@ -1,6 +1,6 @@
 ---
 title: Ten drills for becoming articulate
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [communication, practice, habits]
 created: 2026-10-22
 updated: 2026-10-22

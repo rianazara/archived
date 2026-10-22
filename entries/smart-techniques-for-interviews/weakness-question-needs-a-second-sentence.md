@@ -1,6 +1,6 @@
 ---
 title: The weakness question needs a second sentence
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [behavioral-questions, self-awareness]
 created: 2026-10-22
 updated: 2026-10-22

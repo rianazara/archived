@@ -1,6 +1,6 @@
 ---
 title: "Can we contact your manager?" — agree, then ask when
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [references, process]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,6 @@
 ---
 title: Ten concepts behind AI engineering roles
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [ai, engineering, roadmap]
 created: 2026-10-22
 updated: 2026-10-22

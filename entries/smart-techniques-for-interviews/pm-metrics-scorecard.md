@@ -1,6 +1,6 @@
 ---
 title: Product success metrics — clarify the goal, then build a scorecard
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [product-management, metrics, case-interview]
 created: 2026-10-22
 updated: 2026-10-22

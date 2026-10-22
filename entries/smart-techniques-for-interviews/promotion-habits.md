@@ -1,6 +1,6 @@
 ---
 title: Five habits that make the promotion conversation obvious
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [career-growth, promotion, visibility]
 created: 2026-10-22
 updated: 2026-10-22

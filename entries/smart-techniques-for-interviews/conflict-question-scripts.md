@@ -1,6 +1,6 @@
 ---
 title: The conflict question — never claim you don't have any
-topic: interviews
+topic: smart-techniques-for-interviews
 tags: [behavioral-questions, conflict, communication]
 created: 2026-10-22
 updated: 2026-10-22
