@@ -1,6 +1,7 @@
 ---
 title: Learn agents in this order, because frameworks churn
 topic: ai
+review: true
 tags: [learning-path, agents, mcp]
 created: 2026-10-22
 updated: 2026-10-22

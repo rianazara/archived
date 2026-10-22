@@ -1,6 +1,7 @@
 ---
 title: Seven layers of AI engineering, learned through one project
 topic: ai
+review: true
 tags: [learning-path, agents, evaluation]
 created: 2026-10-22
 updated: 2026-10-22

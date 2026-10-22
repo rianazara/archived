@@ -1,6 +1,7 @@
 ---
 title: Billion-scale matching — don't search everything
 topic: smart-techniques-for-interviews
+review: true
 tags: [system-design, sharding, scale]
 created: 2026-10-22
 updated: 2026-10-22

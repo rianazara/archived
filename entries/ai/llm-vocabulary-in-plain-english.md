@@ -1,6 +1,7 @@
 ---
 title: The AI vocabulary, in plain English
 topic: ai
+review: true
 tags: [glossary, fundamentals]
 created: 2026-10-22
 updated: 2026-10-22

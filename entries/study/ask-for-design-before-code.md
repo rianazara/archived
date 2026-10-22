@@ -1,6 +1,7 @@
 ---
 title: Ask for the architecture before asking for the code
 topic: study
+review: true
 tags: [claude-code, prompting, workflow]
 created: 2026-10-22
 updated: 2026-10-22

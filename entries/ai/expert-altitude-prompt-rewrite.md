@@ -1,6 +1,7 @@
 ---
 title: Rewrite the prompt for altitude, depth and range
 topic: ai
+review: true
 tags: [prompting, technique]
 created: 2026-10-22
 updated: 2026-10-22

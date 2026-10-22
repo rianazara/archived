@@ -1,6 +1,7 @@
 ---
 title: What happens between your prompt and the answer
 topic: ai
+review: true
 tags: [infrastructure, latency, fundamentals]
 created: 2026-10-22
 updated: 2026-10-22

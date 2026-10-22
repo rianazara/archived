@@ -1,6 +1,7 @@
 ---
 title: Architectures matter more than model size
 topic: ai
+review: true
 tags: [architecture, rag, agents, system-design]
 created: 2026-10-22
 updated: 2026-10-22

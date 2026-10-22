@@ -1,6 +1,7 @@
 ---
 title: Five prompt components, and the power of saying "don't"
 topic: ai
+review: true
 tags: [prompting, constraints, writing]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: RAG systems rot — drift, re-embedding, and index swaps
 topic: ai
+review: true
 tags: [rag, production, drift, observability]
 created: 2026-10-22
 updated: 2026-10-22

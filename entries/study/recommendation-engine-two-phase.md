@@ -1,6 +1,7 @@
 ---
 title: Recommendations at scale — generate candidates, then rank
 topic: study
+review: true
 tags: [system-design, recommendations, embeddings, latency]
 created: 2026-10-22
 updated: 2026-10-22

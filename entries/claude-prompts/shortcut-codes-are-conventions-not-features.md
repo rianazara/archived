@@ -1,6 +1,7 @@
 ---
 title: "Claude shortcut codes" are conventions you define, not built-in commands
 topic: claude-prompts
+review: true
 tags: [prompting, claude, misconception]
 created: 2026-10-21
 updated: 2026-10-21

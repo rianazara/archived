@@ -37,10 +37,27 @@ topic: topic-slug
 tags: [tag-one, tag-two]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+review: true                          # optional — include in the daily brief
 source: https://example.com/article  # optional — URL, or a free-text label
                                       # like "Instagram Reel" / "course: X"
                                       # when there's no URL
 ---
+
+`review: true` is the opt-in for the daily brief's quiz rotation. The user
+wants to actively learn and stay current on **one subject: artificial
+intelligence**, broadly construed — AI and LLM concepts (RAG, agents, MCP,
+prompting technique, model internals, cost and inference, evaluation,
+AI security, architecture), the adjacent engineering she's studying
+(system design, concurrency, Kubernetes, classical ML), and
+learning-technique entries. Everything else is kept for retrieval but
+stays out of the rotation.
+
+Set `review: true` on a new entry when it fits that description. Do **not**
+set it on career material — resumes, interview scripts, PM frameworks,
+negotiation, job search, immigration — nor on cooking, homes, travel,
+skincare, music and the other personal topics. When it's genuinely
+borderline, leave it off and mention it, rather than quietly widening the
+rotation.
 
 Body of the concept in the user's own words. Prefer a few short paragraphs
 or a tight bullet list over an exhaustive writeup.

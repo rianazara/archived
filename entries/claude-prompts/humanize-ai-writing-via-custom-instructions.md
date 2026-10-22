@@ -1,6 +1,7 @@
 ---
 title: Deriving your own "sound human" writing rules
 topic: claude-prompts
+review: true
 tags: [writing, prompting, custom-instructions]
 created: 2026-10-21
 updated: 2026-10-21

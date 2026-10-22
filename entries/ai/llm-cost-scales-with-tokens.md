@@ -1,6 +1,7 @@
 ---
 title: LLM cost scales with tokens per request, not users
 topic: ai
+review: true
 tags: [cost, tokens, scaling, production]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: There is no perfect system, only stated tradeoffs
 topic: study
+review: true
 tags: [system-design, principles, interviews]
 created: 2026-10-22
 updated: 2026-10-22

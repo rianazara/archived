@@ -1,6 +1,7 @@
 ---
 title: Knowing a tool and understanding it are different claims
 topic: ai
+review: true
 tags: [fundamentals, system-design, interviews]
 created: 2026-10-22
 updated: 2026-10-22

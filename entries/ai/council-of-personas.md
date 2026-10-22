@@ -1,6 +1,7 @@
 ---
 title: The Council — argue with yourself instead of being agreed with
 topic: ai
+review: true
 tags: [prompting, sycophancy, decision-making]
 created: 2026-10-22
 updated: 2026-10-22

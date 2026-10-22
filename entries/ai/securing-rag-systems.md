@@ -1,6 +1,7 @@
 ---
 title: Securing a RAG system — treat it as internet-facing
 topic: ai
+review: true
 tags: [rag, security, prompt-injection, access-control]
 created: 2026-10-22
 updated: 2026-10-22

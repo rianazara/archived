@@ -1,6 +1,7 @@
 ---
 title: Prompts that teach instead of answering
 topic: ai
+review: true
 tags: [learning, prompting, spaced-repetition]
 created: 2026-10-22
 updated: 2026-10-22

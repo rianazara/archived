@@ -1,6 +1,7 @@
 ---
 title: Project ideas that each prove one skill
 topic: ai
+review: true
 tags: [portfolio, projects, rag, evaluation]
 created: 2026-10-22
 updated: 2026-10-22

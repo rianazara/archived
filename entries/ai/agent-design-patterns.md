@@ -1,6 +1,7 @@
 ---
 title: Agent design patterns worth knowing by name
 topic: ai
+review: true
 tags: [agents, patterns, orchestration]
 created: 2026-10-22
 updated: 2026-10-22

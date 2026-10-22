@@ -1,6 +1,7 @@
 ---
 title: Techniques for making inference faster and cheaper
 topic: ai
+review: true
 tags: [inference, optimization, vocabulary]
 created: 2026-10-22
 updated: 2026-10-22

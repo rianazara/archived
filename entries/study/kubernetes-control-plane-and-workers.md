@@ -1,6 +1,7 @@
 ---
 title: Kubernetes — control plane versus worker nodes
 topic: study
+review: true
 tags: [kubernetes, devops, fundamentals]
 created: 2026-10-22
 updated: 2026-10-22

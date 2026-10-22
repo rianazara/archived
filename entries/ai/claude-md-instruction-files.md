@@ -1,6 +1,7 @@
 ---
 title: Instruction files carry the rules you're tired of repeating
 topic: ai
+review: true
 tags: [claude-code, configuration, agents]
 created: 2026-10-22
 updated: 2026-10-22

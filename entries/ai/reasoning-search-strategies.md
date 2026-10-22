@@ -1,6 +1,7 @@
 ---
 title: Three ways a model can search its own reasoning
 topic: ai
+review: true
 tags: [agents, reasoning, patterns]
 created: 2026-10-22
 updated: 2026-10-22

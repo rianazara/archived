@@ -1,6 +1,7 @@
 ---
 title: Prompts for when your brain won't start
 topic: ai
+review: true
 tags: [productivity, prompting, focus]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: Why stateful agents break at scale, and the fix
 topic: study
+review: true
 tags: [system-design, agents, scaling, state]
 created: 2026-10-22
 updated: 2026-10-22

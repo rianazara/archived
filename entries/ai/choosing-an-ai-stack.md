@@ -1,6 +1,7 @@
 ---
 title: Choose the AI stack from the job, not the diagram
 topic: ai
+review: true
 tags: [architecture, tooling, open-source]
 created: 2026-10-22
 updated: 2026-10-22

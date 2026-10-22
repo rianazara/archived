@@ -1,6 +1,7 @@
 ---
 title: Scoping an agent before you build it
 topic: ai
+review: true
 tags: [agents, product-management, scoping]
 created: 2026-10-22
 updated: 2026-10-22

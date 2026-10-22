@@ -1,6 +1,7 @@
 ---
 title: Harness engineering — the model is only the engine
 topic: ai
+review: true
 tags: [agents, architecture, tooling]
 created: 2026-10-22
 updated: 2026-10-22

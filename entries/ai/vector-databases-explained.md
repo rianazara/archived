@@ -1,6 +1,7 @@
 ---
 title: What a vector database is actually for
 topic: ai
+review: true
 tags: [vector-database, embeddings, rag, fundamentals]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: Reflexion — make the agent grade its own work
 topic: ai
+review: true
 tags: [agents, evaluation, patterns]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: Three stages of building an LLM — and what each failure looks like
 topic: ai
+review: true
 tags: [fundamentals, training, alignment, debugging]
 created: 2026-10-22
 updated: 2026-10-22

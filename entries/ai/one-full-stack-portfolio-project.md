@@ -1,6 +1,7 @@
 ---
 title: One project that touches every layer beats ten demos
 topic: ai
+review: true
 tags: [portfolio, interviews, production, evaluation]
 created: 2026-10-22
 updated: 2026-10-22

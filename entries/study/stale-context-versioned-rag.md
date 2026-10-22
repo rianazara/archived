@@ -1,6 +1,7 @@
 ---
 title: Handling stale context with versioned, event-driven retrieval
 topic: study
+review: true
 tags: [rag, freshness, system-design, interviews]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: Inference is a different infrastructure problem from training
 topic: ai
+review: true
 tags: [infrastructure, inference, latency]
 created: 2026-10-22
 updated: 2026-10-22

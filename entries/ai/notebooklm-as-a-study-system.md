@@ -1,6 +1,7 @@
 ---
 title: NotebookLM as a study system, not a summarizer
 topic: ai
+review: true
 tags: [learning, tools, study]
 created: 2026-10-22
 updated: 2026-10-22

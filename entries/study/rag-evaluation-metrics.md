@@ -1,6 +1,7 @@
 ---
 title: Evaluate retrieval and generation separately
 topic: study
+review: true
 tags: [rag, evaluation, metrics, debugging]
 created: 2026-10-22
 updated: 2026-10-22

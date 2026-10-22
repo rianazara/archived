@@ -1,6 +1,7 @@
 ---
 title: Cache before you scale — and measure the threshold
 topic: ai
+review: true
 tags: [caching, cost, latency, production]
 created: 2026-10-22
 updated: 2026-10-22

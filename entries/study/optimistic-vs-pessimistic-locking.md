@@ -1,6 +1,7 @@
 ---
 title: Optimistic versus pessimistic locking
 topic: study
+review: true
 tags: [databases, concurrency, system-design]
 created: 2026-10-22
 updated: 2026-10-22

@@ -1,6 +1,7 @@
 ---
 title: Four RAG architectures, and not defaulting to the fancy one
 topic: ai
+review: true
 tags: [rag, architecture, retrieval]
 created: 2026-10-22
 updated: 2026-10-22

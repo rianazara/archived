@@ -1,6 +1,7 @@
 ---
 title: AI Customer Support at Scale (Travel Industry)
 topic: ai
+review: true
 tags: [customer-support, travel]
 created: 2026-07-18
 updated: 2026-07-18

@@ -1,6 +1,7 @@
 ---
 title: Small decisions don't need a paragraph
 topic: ai
+review: true
 tags: [architecture, routing, cost, classification]
 created: 2026-10-22
 updated: 2026-10-22

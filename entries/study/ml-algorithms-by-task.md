@@ -1,6 +1,7 @@
 ---
 title: Classical ML algorithms, organized by what they're for
 topic: study
+review: true
 tags: [machine-learning, fundamentals]
 created: 2026-10-22
 updated: 2026-10-22

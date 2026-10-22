@@ -1,6 +1,7 @@
 ---
 title: Surviving a booking spike — queue the crowd, count in Redis
 topic: smart-techniques-for-interviews
+review: true
 tags: [system-design, redis, concurrency]
 created: 2026-10-22
 updated: 2026-10-22

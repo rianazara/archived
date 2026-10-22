@@ -1,6 +1,7 @@
 ---
 title: "How do you know your agent works?" — build the eval harness
 topic: ai
+review: true
 tags: [evaluation, llmops, observability, interviews]
 created: 2026-10-22
 updated: 2026-10-22

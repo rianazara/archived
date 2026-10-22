@@ -1,6 +1,7 @@
 ---
 title: The agent gap is governance, not capability
 topic: ai
+review: true
 tags: [agents, governance, future-of-work]
 created: 2026-10-22
 updated: 2026-10-22

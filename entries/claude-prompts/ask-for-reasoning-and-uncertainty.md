@@ -1,6 +1,7 @@
 ---
 title: Ask the model to expose reasoning and uncertainty
 topic: claude-prompts
+review: true
 tags: [prompting, reliability, fact-checking]
 created: 2026-10-21
 updated: 2026-10-21

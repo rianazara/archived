@@ -1,6 +1,7 @@
 ---
 title: Five AI skills past prompting
 topic: ai
+review: true
 tags: [career, mcp, agents, skills]
 created: 2026-10-22
 updated: 2026-10-22

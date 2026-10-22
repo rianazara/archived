@@ -1,6 +1,7 @@
 ---
 title: Production RAG is evidence engineering
 topic: ai
+review: true
 tags: [rag, production, retrieval]
 created: 2026-10-22
 updated: 2026-10-22

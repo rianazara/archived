@@ -1,6 +1,7 @@
 ---
 title: Structured notes retrieve better than scattered documents
 topic: ai
+review: true
 tags: [rag, knowledge-management, retrieval]
 created: 2026-10-22
 updated: 2026-10-22

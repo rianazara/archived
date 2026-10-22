@@ -1,6 +1,7 @@
 ---
 title: Pointing a coding agent at a local model
 topic: ai
+review: true
 tags: [local-models, ollama, cost, privacy]
 created: 2026-10-22
 updated: 2026-10-22
