@@ -14,6 +14,7 @@ stay fully readable without Claude.
 ```
 entries/<topic>/<slug>.md   # one concept per file
 INDEX.md                    # generated catalog, do not hand-edit
+briefs/YYYY-MM-DD.md        # daily AI brief, written by the cloud routine
 inbox/drop/                 # files land here (.eml, mbox, .pdf, .docx, .html, .zip)
 inbox/queue/<id>.json       # one stub per captured item, with a status
 inbox/extract/<id>.txt      # plain text pulled out of a captured item
