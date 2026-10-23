@@ -1,6 +1,7 @@
 ---
 title: Concept map for AI product interviews
 topic: ai
+review: true
 tags: [interviews, product-management, study-map]
 created: 2026-10-22
 updated: 2026-10-22

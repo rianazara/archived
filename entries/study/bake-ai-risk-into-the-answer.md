@@ -1,6 +1,7 @@
 ---
 title: Responsible AI belongs in the problem definition, not the postscript
 topic: study
+review: true
 tags: [interviews, product-management, responsible-ai]
 created: 2026-10-22
 updated: 2026-10-22
